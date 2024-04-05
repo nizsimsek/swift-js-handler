@@ -1,6 +1,6 @@
 import { ThemeProvider } from "@/components/theme-provider";
 import LiveRouter from "./routers";
-import { ModeToggle } from "./components/mode-toggle";
+// import { ModeToggle } from "./components/mode-toggle";
 import { Toaster } from "./components/ui/toaster";
 
 function App() {
